@@ -1,1 +1,2 @@
 # Automatic-Attendance-system-using-Facial-Recognisition
+When using this code, make sure to downgrade your Python version to 3.8 to avoid errors with the facial recognition library. You might also encounter a dlib error or issues with building wheels; you can resolve these by downloading the necessary zip file externally—there are many tutorials available on YouTube for this. Additionally, ensure that all libraries are installed through the terminal. Once you've done that, you're all set!
